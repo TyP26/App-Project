@@ -1,0 +1,13 @@
+
+{
+    "aps" : {
+        "alert" : {
+            "title" : "New Message",
+            "subtitle" : "Testing",
+            "body" : "Hello World!!!!!!!"
+        },
+        "badge" : 0,
+        "sound" : "default"
+    },
+    "Simulator Target Bundle" : "org.d125.shsConnect"
+}
